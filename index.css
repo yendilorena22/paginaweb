@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(152, 177, 251);
+}
+
+nav {
+    background-color: rgb(175, 204, 255)
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 0.5em 1em;
+    display: block;
+    font-size: 35px;
+}
+
+section {
+    padding: 2em;
+}
+
+footer {
+    background-color: #0008ff;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1{
+    font-size: 45px;
+    font-family: cursive;
+    color: black;
+}

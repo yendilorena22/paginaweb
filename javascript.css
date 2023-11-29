@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(205, 205, 255);
+}
+
+h1{
+    font-size: 64px;
+    font-family:  cursive;
+    color: black;
+}
+ p{
+    font-size: 34px;
+    font-family:  cursive;
+    color: black;
+ }
